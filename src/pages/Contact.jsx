@@ -14,7 +14,7 @@ const Contact = () => {
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-lg text-gray-600'>OUR OFFICE</p>
           <p className='text-gray-500'>273407 Gorakhhpur <br/> Suite 365, Uttar Pradesh, India</p>
-          <p className='text-gray-500'>Phone: 91-7991518306 <br/>Email: khanarif2738@gmail.com</p>
+          <p className='text-gray-500'>Phone: +91-7991518306 <br/>Email: khanarif2738@gmail.com</p>
           <p className='font-semibold text-lg text-gray-600'>Careers at HEALTHCARE+</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore jobs</button>
