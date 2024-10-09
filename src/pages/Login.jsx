@@ -10,9 +10,6 @@ const Login = () => {
 
     const onSubmitHandler = async (event) => {
       event.preventDefault()
-
-
-
     }
 
   return (
